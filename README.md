@@ -1,4 +1,4 @@
-
+![python project](https://github.com/beingwaseem/Python_Project_for_Data_Science/assets/118182700/36415494-ba5a-4acd-9d79-aa0ebd4e37f0)
 
 <h1 align="center">Analysis of Stock Performance and Dashboard Building</h1>
 
