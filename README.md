@@ -1,4 +1,4 @@
-# Python Project for Data Science Certificate
+
 
 <h1 align="center">Analysis of Stock Performance and Dashboard Building</h1>
 
